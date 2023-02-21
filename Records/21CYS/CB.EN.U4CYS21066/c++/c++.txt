@@ -1,0 +1,6 @@
+#include <iostream>
+
+int main() {
+    std::cout << "I practiced in the online compiler, I don't have any of the practiced programs.\n";
+    return 0;
+}
