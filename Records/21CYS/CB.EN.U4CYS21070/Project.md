@@ -807,6 +807,11 @@ public class AlbumFragment extends Fragment {
 
 ### Demo
 
- 
+ ![image](https://github.com/Shreeom03/20CYS383-Java-Programming-Lab/assets/92969109/26ba0069-e0bd-4763-a6c7-be919867f0d9)
+
 
 #### Screenshots
+
+![image](https://github.com/Shreeom03/20CYS383-Java-Programming-Lab/assets/92969109/ba4c44ff-8ea1-4290-ac5d-73311f1c9fe7)
+![image](https://github.com/Shreeom03/20CYS383-Java-Programming-Lab/assets/92969109/77060703-a6a0-4d94-a536-481651f868d3)
+
