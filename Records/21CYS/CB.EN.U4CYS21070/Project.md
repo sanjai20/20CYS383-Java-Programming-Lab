@@ -1,4 +1,4 @@
-(https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-JPL-blue)
+![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-JPL-blue)
 
  
 
@@ -819,6 +819,7 @@ public class AlbumFragment extends Fragment {
 
 #### Screenshots
 
-![image](https://github.com/Shreeom03/20CYS383-Java-Programming-Lab/assets/92969109/ba4c44ff-8ea1-4290-ac5d-73311f1c9fe7)
-![image](https://github.com/Shreeom03/20CYS383-Java-Programming-Lab/assets/92969109/77060703-a6a0-4d94-a536-481651f868d3)
+<img src="https://github.com/Shreeom03/20CYS383-Java-Programming-Lab/assets/92969109/ba4c44ff-8ea1-4290-ac5d-73311f1c9fe7" width="300" height="450">
+&nbsp &nbsp &nbsp
+<img src="https://github.com/Shreeom03/20CYS383-Java-Programming-Lab/assets/92969109/77060703-a6a0-4d94-a536-481651f868d3" width="300" height="450">
 
