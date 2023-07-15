@@ -11,7 +11,14 @@
  
 
 ### Module Split-up
-
+| Name | Topic |
+|------|-------|
+| Shree Om | Main-Activity |
+| Shree Om | Music-File |
+| Gokul | Music-Adapter |
+| Gokul | Player-Activity |
+| Sudipt | Song-Fragments |
+| Sudipt | Album-Fragments |
  
 
 ### Code
